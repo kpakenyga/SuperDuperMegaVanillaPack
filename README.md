@@ -1,0 +1,2 @@
+# SuperDuperMegaVanillaPack
+Modpack for Minecraft
